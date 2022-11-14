@@ -20,7 +20,7 @@ risk.
 
 Can you change the "Connected to" to point to your server, without braking the sandbox ?
 
-
+NO ADB, NO ROOT, NO FRIDA/OBJECTION solution are accepted... Just plain user input 
 ```
 
 
