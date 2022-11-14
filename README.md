@@ -6,7 +6,7 @@ It seems that when it comes to mobile, real good challenges are very few out the
 
 I'll keep adding cool crackmes in this repo, so.. penterers and CTFers stay tuned....
 
-# Challenge List
+## Challenge List
 
 ### [Four.apk](https://github.com/Ch0pin/uncrackable/blob/main/four.apk) (A shot of knowledge) 
 
@@ -24,16 +24,16 @@ Can you change the "Connected to" to point to your server, without braking the s
 ```
 
 
-# Submitting a Solution
+## Submitting a Solution
 
 Submition: DM me at @ch0pin and I'll add your name to the Hall Of Fame
 
-# Submitting a Challenge 
+## Submitting a Challenge 
 
 Do you have something to teach to the community ? then just Clone -> PR -> And we will see about it :) 
 
 ### Respect the others and don't post spoilers !!
 
-# HOF:
+## HOF:
 
 [@ch0pin](https://twitter.com/Ch0pin) (Solutions: four.apk)
