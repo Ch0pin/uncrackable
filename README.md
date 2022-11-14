@@ -12,8 +12,8 @@ It seems that when it comes to mobile real good challenges are few. I'll keep ad
 The curious case of a file disappearance
 
 The vulnerability assessment team informed the developers that 'Four' has a vulnerability 
-which allows someone to write files in the application's data folder. The developer team 
-though reassured that there is no danger and they took a cool measure to avoid the security 
+which allows someone to write files anywhere in the application's data folder. The developer 
+team though reassured that there is no danger and they took a cool measure to avoid the security 
 risk. 
 
 Can you change the "Connected to" to point to your server, without braking the sandbox ?
