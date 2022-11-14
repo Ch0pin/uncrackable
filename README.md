@@ -2,7 +2,7 @@
 
 ## Challenges 
 
-It seems that when it comes to mobile, real good challenges are very few out there. The real objective of a challenge is to actually learn something out of it and not keep hiding flags in the assets :). In fact some of the challenges won't have flags, but real solutions as they have to be based on real case scenarios. 
+It seems that when it comes to mobile, real good challenges are very few out there. The real objective of a challenge is to actually learn something out of it and not keep hiding flags in the assets :). In fact some of the challenges won't have flags but real solutions as they will to be based on real case scenarios like: "hey, how you exploit this ?" 
 
 I'll keep adding cool crackmes in this repo, so stay tuned....
 
