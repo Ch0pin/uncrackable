@@ -25,11 +25,11 @@ Can you change the "Connected to" to point to your server, without braking the s
 
 # Submitting a flag
 
-Submition: DM me at @ch0pin and I'll add your name to here
+Submition: DM me at @ch0pin and I'll add your name to the Hall Of Fame
 
 # Submitting a Challenge 
 
-Clone -> PR 
+Make sure you have something really good there and then just Clone -> PR 
 
 ### Respect the others and don't post spoilers !!
 
