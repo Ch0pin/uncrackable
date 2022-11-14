@@ -30,7 +30,7 @@ Submition: DM me at @ch0pin and I'll add your name to the Hall Of Fame
 
 # Submitting a Challenge 
 
-Do you have something to teach to the community then just Clone -> PR 
+Do you have something to teach to the community ? then just Clone -> PR -> We will see about it :) 
 
 ### Respect the others and don't post spoilers !!
 
