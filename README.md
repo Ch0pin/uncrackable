@@ -36,4 +36,6 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 
 ## HOF:
 - [@sdexyz](https://twitter.com/sdexyz) (Solutions: four.apk)
+- [bl4ckh0l3z](https://twitter.com/bl4ckh0l3z)(Solutions: four.apk)
 - [@ch0pin](https://twitter.com/Ch0pin) (Solutions: four.apk)
+
