@@ -26,7 +26,7 @@ Can you change the "Connected to" to point to your server, without braking the s
 
 ## Submitting a Solution
 
-Submition: DM me at @ch0pin and I'll add your name to the Hall Of Fame
+**Submition: PM me at @ch0pin and I'll add your name to the Hall Of Fame**
 
 ## Submitting a Challenge 
 
