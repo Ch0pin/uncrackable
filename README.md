@@ -4,15 +4,14 @@
 
 It seems that when it comes to mobile real good challenges are few. I'll keep adding cool crackmes in this repo, so stay tuned....
 
-## Challenge List
+# Challenge List
 
-### Four 
+### Four.apk 
 
+```
 Can you change the "Connected to" to point to your server, without braking the sandbox ?
 
-#Solved by:
-
-[@ch0pin](https://twitter.com/Ch0pin) (Solutions: four.apk)
+```
 
 
 # Submitting a flag
@@ -23,4 +22,8 @@ Submition: DM me at @ch0pin and I'll add your name to here
 
 Clone -> PR 
 
-# Respect the others and don't spoil 
+### Respect the others and don't post spoilers !!
+
+# HOF:
+
+[@ch0pin](https://twitter.com/Ch0pin) (Solutions: four.apk)
