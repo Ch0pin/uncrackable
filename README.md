@@ -2,7 +2,9 @@
 
 ## Challenges 
 
-It seems that when it comes to mobile real good challenges are few. I'll keep adding cool crackmes in this repo, so stay tuned....
+It seems that when it comes to mobile, real good challenges are very few out there. The real objective of a challenge is to actually learn something out of it and not keep hiding flags in the assets :) 
+
+I'll keep adding cool crackmes in this repo, so stay tuned....
 
 # Challenge List
 
