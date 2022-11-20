@@ -42,6 +42,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@kirasumairu1](https://twitter.com/kirasumairu1)(Solutions: four.apk)
 - [@thongvv10](https://twitter.com/thongvv10)(Solutions: four.apk)
 - [@rpinuaga](https://twitter.com/rpinuaga)(Solutions: four.apk)
+- [@_blackb3ard](https://twitter.com/_blackb3ard)(Solutions: four.apk) 
 ----
 - [@ch0pin](https://twitter.com/Ch0pin) (Solutions: four.apk)
 
