@@ -23,15 +23,9 @@ NO ADB, NO ROOT, NO FRIDA/OBJECTION solutions are accepted... Just plain user in
 ```
 
 
-### Four.apk(A shot of knowledge) 
+### Four.apk 
 
 ```
-The curious case of a file disappearance
-
-The vulnerability assessment team informed the developers that 'Four' has a vulnerability 
-which allows someone to write files anywhere in the application's data folder. The developer 
-team though reassured that there is no danger and they took a cool measure to avoid the security 
-risk. 
 
 Can you change the "Connected to" to point to your server, without braking the sandbox ?
 
