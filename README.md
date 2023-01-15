@@ -44,7 +44,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 ### Respect the others and don't post spoilers !!
 
 ## HoF:
-- [@sdexyz](https://twitter.com/sdexyz) (Solutions: four.apk)
+- [@sdexyz](https://twitter.com/sdexyz)(Solutions: four.apk)
 - [@bl4ckh0l3z](https://twitter.com/bl4ckh0l3z)(Solutions: four.apk)
 - [@pm_atbrik](https://twitter.com/m_atbrik)(Solutions: four.apk)
 - [@megatr0nz](https://twitter.com/megatr0nz)(Solutions: four.apk)
@@ -53,6 +53,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@rpinuaga](https://twitter.com/rpinuaga)(Solutions: four.apk)
 - [@_blackb3ard](https://twitter.com/_blackb3ard)(Solutions: four.apk) 
 - [@EzV01d](https://twitter.com/EzV01d)(Solutions: four.apk) 
+- [@jgmfingers](https://twitter.com/jgmfingers)(Solutions: four.apk) 
 ----
 - [@ch0pin](https://twitter.com/Ch0pin) (Solutions: four.apk)
 
