@@ -43,6 +43,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [TheDauntless](https://github.com/TheDauntless)
 - [@minamikazecafe](https://twitter.com/minamikazecafe)
 - [@saspect488](https://twitter.com/saspect488)
+- [@tomiwa_ot](https://twitter.com/tomiwa_ot)
 ----
 - [@ch0pin](https://twitter.com/Ch0pin) (Solutions: four.apk)
 
