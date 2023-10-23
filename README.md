@@ -4,6 +4,21 @@
 
 ## Challenges 
 
+### [Secure-Browser.apk](https://github.com/Ch0pin/uncrackable/blob/main/Secure-Browser.1.0.0.apk)
+
+```
+We've launched a super-secure browser with unique security settings, and we take pride in our product.
+We're actively working to enhance the user experience by addressing a few UI design issues, including
+an intermittent webview jumping when typing. Your feedback and support are essential in making our
+browser even better.
+
+If you manage to send our secure cookie to www.dontsendmethecookie.com then report it imediatelly
+to https://twitter.com/Ch0pin as he is responsible for this mess. We will add you in our HoF for
+that, but no CVE (Although I think you can request one).
+
+
+```
+
 
 ### [Four.apk](https://github.com/Ch0pin/uncrackable/blob/main/four.apk)
 
