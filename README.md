@@ -12,7 +12,7 @@ We're actively working to enhance the user experience by addressing a few UI des
 an intermittent webview jumping when typing. Your feedback and support are essential in making our
 browser even better.
 
-If you manage to send our secure cookie to www.dontsendmethecookie.com then report it imediatelly
+If you manage to send our secure cookie to www.example.com then report it imediatelly
 to https://twitter.com/Ch0pin as he is responsible for this mess. We will add you in our HoF for
 that, but no CVE (Although I think you can request one).
 
