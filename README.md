@@ -16,6 +16,9 @@ If you manage to send our secure cookie to www.example.com then report it imedia
 to https://twitter.com/Ch0pin as he is responsible for this mess. We will add you in our HoF for
 that, but no CVE (Although I think you can request one).
 
+constrains: No root/frida/etc... The poc should work for SDK version > 32
+
+Good luck ! 
 
 ```
 
