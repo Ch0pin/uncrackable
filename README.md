@@ -44,8 +44,8 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 ### Respect the others and don't post spoilers !!
 
 ## HoF:
-- [@sdexyz](https://twitter.com/sdexyz) (first blood - four.apk)
-- [@bit3threat](https://twitter.com/bit3threat) (first blood - Secure Browser.apk)
+#### Four.apk
+- [@sdexyz](https://twitter.com/sdexyz) (first blood)
 - [@bl4ckh0l3z](https://twitter.com/bl4ckh0l3z)  
 - [@pm_atbrik](https://twitter.com/m_atbrik) 
 - [@megatr0nz](https://twitter.com/megatr0nz) 
@@ -64,6 +64,8 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@saspect488](https://twitter.com/saspect488)
 - [@tomiwa_ot](https://twitter.com/tomiwa_ot)
 ----
-- [@ch0pin](https://twitter.com/Ch0pin) (Solutions: four.apk)
+#### Secure-Browser
+- [@bit3threat](https://twitter.com/bit3threat) (first blood)
+- [@Ath3r1s](https://twitter.com/Ath3r1s)
 
 
