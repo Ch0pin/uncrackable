@@ -69,5 +69,5 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@Ath3r1s](https://twitter.com/Ath3r1s)
 - [@minamikazecafe](https://twitter.com/minamikazecafe)
 - [@saitawngpha](https://twitter.com/saitawngpha)
-
+- [@sdexyz](https://twitter.com/sdexyz)
 
