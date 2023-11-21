@@ -71,4 +71,5 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@saitawngpha](https://twitter.com/saitawngpha)
 - [@sdexyz](https://twitter.com/sdexyz)
 - [@Cube_Lin](https://twitter.com/Cube_Lin)
+- [@suidpit](https://twitter.com/suidpit)
 
