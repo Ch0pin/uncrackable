@@ -64,7 +64,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@saspect488](https://twitter.com/saspect488)
 - [@tomiwa_ot](https://twitter.com/tomiwa_ot)
 - [@SeanPesce](https://twitter.com/SeanPesce)
-- [@bernas](https://twitter.com/bernasValente)
+- [@bernasv](https://twitter.com/bernasValente)
 ----
 #### Secure-Browser
 - [@bit3threat](https://twitter.com/bit3threat) (first blood)
@@ -75,6 +75,6 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@Cube_Lin](https://twitter.com/Cube_Lin)
 - [@suidpit](https://twitter.com/suidpit)
 - [@SeanPesce](https://twitter.com/SeanPesce)
-- [@bernas](https://twitter.com/bernasValente) 
+- [@bernasv](https://twitter.com/bernasValente) 
 
 
