@@ -75,6 +75,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@Cube_Lin](https://twitter.com/Cube_Lin)
 - [@suidpit](https://twitter.com/suidpit)
 - [@SeanPesce](https://twitter.com/SeanPesce)
-- [@bernasv](https://twitter.com/bernasValente) 
+- [@bernasv](https://twitter.com/bernasValente)
+- [@hulkvision](https://twitter.com/hulkvision)
 
 
