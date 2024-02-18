@@ -65,6 +65,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@tomiwa_ot](https://twitter.com/tomiwa_ot)
 - [@SeanPesce](https://twitter.com/SeanPesce)
 - [@bernasv](https://twitter.com/bernasValente)
+- [@hulkvision](https://twitter.com/hulkvision)
 ----
 #### Secure-Browser
 - [@bit3threat](https://twitter.com/bit3threat) (first blood)
