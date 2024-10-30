@@ -83,4 +83,5 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@0xantqt](https://twitter.com/0xantqt)
 - [@tomisec](https://x.com/tomisec)
 - [@iamsalimabdella](https://x.com/iamsalimabdella)
+- [@_blackb3ard](https://x.com/_blackb3ard)
 
