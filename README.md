@@ -19,6 +19,11 @@ What you should send ?
 - The exploit for Franc's app (an apk or code which I just need to copy/paste to an empty Android studio project)
 - A paypal account to receive your 80 euro reward 
 
+Ahhh.....
+
+Unfortunately, Frank is on a tight budget, so only the first solution will receive the reward. The rest will earn a spot on our humble wall of fame. :)
+
+
 Good luck ! 
 
 ```
