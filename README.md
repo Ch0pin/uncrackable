@@ -71,7 +71,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 
 ## HoF:
 
-#### insider
+#### Insider
 
 🤷
 
