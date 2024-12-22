@@ -74,6 +74,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 #### Insider
 
 - [jackds.nl](https://bsky.app/profile/jackds.nl)
+- [tomisec](https://x.com/tomisec)
 
 ----
 
