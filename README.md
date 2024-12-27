@@ -75,6 +75,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 
 - [jackds.nl](https://bsky.app/profile/jackds.nl)
 - [tomisec](https://x.com/tomisec)
+- [iamsalimabdella](https://x.com/iamsalimabdella)
 
 ----
 
