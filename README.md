@@ -73,9 +73,9 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 
 #### Insider
 
-- [jackds.nl](https://bsky.app/profile/jackds.nl) (first blood)
-- [tomisec](https://x.com/tomisec)
-- [iamsalimabdella](https://x.com/iamsalimabdella)
+- [@jackds.nl](https://bsky.app/profile/jackds.nl) (first blood)
+- [@tomisec](https://x.com/tomisec)
+- [@iamsalimabdella](https://x.com/iamsalimabdella)
 - [@minamikazecafe](https://twitter.com/minamikazecafe)
 ----
 
