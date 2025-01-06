@@ -77,6 +77,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@tomisec](https://x.com/tomisec)
 - [@iamsalimabdella](https://x.com/iamsalimabdella)
 - [@minamikazecafe](https://twitter.com/minamikazecafe)
+- [@Ath3r1s](https://twitter.com/Ath3r1s)
 ----
 
 #### Four
