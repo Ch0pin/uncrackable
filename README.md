@@ -78,6 +78,8 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@iamsalimabdella](https://x.com/iamsalimabdella)
 - [@minamikazecafe](https://twitter.com/minamikazecafe)
 - [@Ath3r1s](https://twitter.com/Ath3r1s)
+- [@hulkvision](https://twitter.com/hulkvision)
+- [@fr4via](https://x.com/fr4vian)
 ----
 
 #### Four
@@ -104,6 +106,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@hulkvision](https://twitter.com/hulkvision)
 - [@tomisec](https://x.com/tomisec)
 - [@iamsalimabdella](https://x.com/iamsalimabdella)
+- [@fr4via](https://x.com/fr4vian)
 ----
 #### Secure-Browser
 - [@bit3threat](https://twitter.com/bit3threat) (first blood)
@@ -120,4 +123,4 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@tomisec](https://x.com/tomisec)
 - [@iamsalimabdella](https://x.com/iamsalimabdella)
 - [@_blackb3ard](https://x.com/_blackb3ard)
-
+- [@fr4via](https://x.com/fr4vian)
