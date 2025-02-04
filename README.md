@@ -80,6 +80,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@Ath3r1s](https://twitter.com/Ath3r1s)
 - [@hulkvision](https://twitter.com/hulkvision)
 - [@fr4via](https://x.com/fr4vian)
+- [@tntnavigator](https://x.com/tntnavigator)
 ----
 
 #### Four
