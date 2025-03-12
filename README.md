@@ -108,6 +108,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@tomisec](https://x.com/tomisec)
 - [@iamsalimabdella](https://x.com/iamsalimabdella)
 - [@fr4via](https://x.com/fr4vian)
+- [@xbr01_](https://x.com/xbr01_)
 ----
 #### Secure-Browser
 - [@bit3threat](https://twitter.com/bit3threat) (first blood)
