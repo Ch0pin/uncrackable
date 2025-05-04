@@ -82,6 +82,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@fr4via](https://x.com/fr4vian)
 - [@tntnavigator](https://x.com/tntnavigator)
 - [@zep3hyr](https://x.com/zep3hyr)
+- [@AlQa3Qa3M0x0101](https://x.com/AlQa3Qa3M0x0101)
 
 ----
 
