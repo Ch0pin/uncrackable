@@ -112,6 +112,8 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@iamsalimabdella](https://x.com/iamsalimabdella)
 - [@fr4via](https://x.com/fr4vian)
 - [@xbr01_](https://x.com/xbr01_)
+- [@AlQa3Qa3M0x0101](https://x.com/AlQa3Qa3M0x0101)
+  
 ----
 #### Secure-Browser
 - [@bit3threat](https://twitter.com/bit3threat) (first blood)
@@ -129,3 +131,4 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@iamsalimabdella](https://x.com/iamsalimabdella)
 - [@_blackb3ard](https://x.com/_blackb3ard)
 - [@fr4via](https://x.com/fr4vian)
+- [@AlQa3Qa3M0x0101](https://x.com/AlQa3Qa3M0x0101)
