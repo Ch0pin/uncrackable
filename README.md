@@ -113,7 +113,8 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@fr4via](https://x.com/fr4vian)
 - [@xbr01_](https://x.com/xbr01_)
 - [@AlQa3Qa3M0x0101](https://x.com/AlQa3Qa3M0x0101)
-- [@happyjester80](https://x.com/happyjester80)  
+- [@happyjester80](https://x.com/happyjester80)
+- [@joo_elsaka](https://x.com/joo_elsaka)
 ----
 #### Secure-Browser
 - [@bit3threat](https://twitter.com/bit3threat) (first blood)
