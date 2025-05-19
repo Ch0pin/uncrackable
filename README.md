@@ -134,3 +134,5 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@fr4via](https://x.com/fr4vian)
 - [@AlQa3Qa3M0x0101](https://x.com/AlQa3Qa3M0x0101)
 - [@happyjester80](https://x.com/happyjester80)
+- [@joo_elsaka](https://x.com/joo_elsaka)
+  
