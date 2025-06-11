@@ -116,6 +116,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@happyjester80](https://x.com/happyjester80)
 - [@joo_elsaka](https://x.com/joo_elsaka)
 - [@r_srikesh](https://x.com/r_srikesh)
+- [@Wixter_07](https://x.com/Wixter_07)
 ----
 #### Secure-Browser
 - [@bit3threat](https://twitter.com/bit3threat) (first blood)
@@ -136,5 +137,5 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@AlQa3Qa3M0x0101](https://x.com/AlQa3Qa3M0x0101)
 - [@happyjester80](https://x.com/happyjester80)
 - [@joo_elsaka](https://x.com/joo_elsaka)
-
+- [@Wixter_07](https://x.com/Wixter_07)
   
