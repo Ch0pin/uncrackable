@@ -26,6 +26,9 @@ What this payload should do?
 
 It should force the app to send the token to any given server.
 
+If your payload does such a thing...report it imediatelly to https://twitter.com/Ch0pin as
+he is responsible for this mess. We will add you in our HoF for that, but no CVE ....
+
 constrains: No root/frida/etc... 
 
 ```
