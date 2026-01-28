@@ -7,13 +7,14 @@
 ### [dontreload.apk.zip](https://github.com/Ch0pin/uncrackable/blob/main/dontReload.apk.zip)
 
 ```
-Franc shipped an Android feature that loads “trusted” web content into a WebView. The app receives a deep link containing a url parameter and decides whether to attach a privileged header:
+Franc shipped an Android feature that loads “trusted” web content into a WebView. The app receives a deeplink
+containing a url parameter and decides whether to attach a privileged header:
 	•	If the target host equals www.example.com, it appends an internal Authentication Bearer header.
 	•	Otherwise, it loads the URL normally.
 
 Franc is proud of one thing: he locked the host.
 
-He ignored the security team’s note that “host validation without scheme enforcement is not an origin check.”
+He ignored the security team’s warnings about webview takeover ...
 
 “WebView takeover… so what… they can’t get my token.”
 
