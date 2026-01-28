@@ -4,27 +4,24 @@
 
 ## Challenges 
 
-### [dontreload.apk.zip](https://github.com/user-attachments/files/18202710/insider.apk.zip)
+### [dontreload.apk.zip](https://github.com/Ch0pin/uncrackable/blob/main/dontReload.apk.zip)
 
 ```
-Franc is a beginner Android developer who was tasked with creating an app to securely store a secret in the
-SharedPreferences folder. Lacking experience in secure coding practices, Franc came up with a peculiar
-solution: he added a button to the app that crashes it deliberately, hoping this would deter any attempts
-to exploit the app.
+Franc shipped an Android feature that loads “trusted” web content into a WebView. The app receives a deep link containing a url parameter and decides whether to attach a privileged header:
+	•	If the target host equals www.example.com, it appends an internal Authentication Bearer header.
+	•	Otherwise, it loads the URL normally.
 
-Your challenge: Develop an app that outsmarts Franc’s flawed logic. Force his app to send you the secret
-stored in its SharedPreferences and display the secret in a TextView within your app. 
+Franc is proud of one thing: he locked the host.
+
+He ignored the security team’s note that “host validation without scheme enforcement is not an origin check.”
+
+“WebView takeover… so what… they can’t get my token.”
 
 What you should send ?
-- The exploit for Franc's app (an apk or code which I just need to copy/paste to an empty Android studio project)
-- A paypal account to receive your 80 euro reward 
 
-Ahhh.....
+A payload in any form :)
 
-Unfortunately, Frank is on a tight budget, so only the first solution will receive the reward. The rest will earn a spot on our humble wall of fame. :)
-
-
-Good luck ! 
+constrains: No root/frida/etc... 
 
 ```
 
