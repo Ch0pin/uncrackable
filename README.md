@@ -22,6 +22,10 @@ What you should send ?
 
 A payload in any form :)
 
+What this payload should do?
+
+It should force the app to send the token to any given server.
+
 constrains: No root/frida/etc... 
 
 ```
