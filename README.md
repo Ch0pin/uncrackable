@@ -115,8 +115,8 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@happyjester80](https://x.com/happyjester80)
 - [@AhcenZen](https://x.com/AhcenZen)
 - [@joo_elsaka](https://x.com/joo_elsaka)
+- [@gelosecurity](https://x.com/gelosecurity)
 ----
-
 #### Four
 - [@sdexyz](https://twitter.com/sdexyz) (first blood)
 - [@bl4ckh0l3z](https://twitter.com/bl4ckh0l3z)  
