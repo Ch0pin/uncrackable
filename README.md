@@ -32,6 +32,8 @@ he is responsible for this mess. We will add you in our HoF for that, but no CVE
 constrains: No root/frida/etc... 
 
 ```
+Hint: Solve [this](https://github.com/Ch0pin/uncrackable/blob/main/DNR-Part-A.apk.zip) first by loading **ANY** website in the application's webview (not the browser)
+
 
 ### [insider.apk.zip](https://github.com/user-attachments/files/18202710/insider.apk.zip)
 
