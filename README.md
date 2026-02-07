@@ -118,6 +118,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@AhcenZen](https://x.com/AhcenZen)
 - [@joo_elsaka](https://x.com/joo_elsaka)
 - [@gelosecurity](https://x.com/gelosecurity)
+- [Mohamed Salah](https://www.linkedin.com/in/mohamed-salah-3a0498248/)
 ----
 #### Four
 - [@sdexyz](https://twitter.com/sdexyz) (first blood)
@@ -151,6 +152,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@r_srikesh](https://x.com/r_srikesh)
 - [@Wixter_07](https://x.com/Wixter_07)
 - [@AhcenZen](https://x.com/AhcenZen)
+- [Mohamed Salah](https://www.linkedin.com/in/mohamed-salah-3a0498248/)
 ----
 #### Secure-Browser
 - [@bit3threat](https://twitter.com/bit3threat) (first blood)
