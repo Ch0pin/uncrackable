@@ -102,6 +102,9 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 
 ## HoF:
 
+#### Dontreload 
+- [@tomisec](https://x.com/tomisec) - Part A (first blood)
+
 #### Insider
 
 - [@jackds.nl](https://bsky.app/profile/jackds.nl) (first blood)
