@@ -123,6 +123,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@gelosecurity](https://x.com/gelosecurity)
 - [Mohamed Salah](https://www.linkedin.com/in/mohamed-salah-3a0498248/)
 - [@zemrx](https://www.linkedin.com/in/zemrx)
+- [Carlo Jae Avila](https://www.linkedin.com/in/carlojaeavila/)
 ----
 #### Four
 - [@sdexyz](https://twitter.com/sdexyz) (first blood)
@@ -132,7 +133,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@kirasumairu1](https://twitter.com/kirasumairu1) 
 - [@thongvv10](https://twitter.com/thongvv10)  
 - [@rpinuaga](https://twitter.com/rpinuaga)  
-- [@_blackb3ard](https://twitter.com/_blackb3ard)
+- [Carlo Jae Avila](https://www.linkedin.com/in/carlojaeavila/)
 - [@EzV01d](https://twitter.com/EzV01d)
 - [@jgmfingers](https://twitter.com/jgmfingers)
 - [@komen205](https://twitter.com/komen205) 
@@ -173,7 +174,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 - [@0xantqt](https://twitter.com/0xantqt)
 - [@tomisec](https://x.com/tomisec)
 - [@iamsalimabdella](https://x.com/iamsalimabdella)
-- [@_blackb3ard](https://x.com/_blackb3ard)
+- [Carlo Jae Avila](https://www.linkedin.com/in/carlojaeavila/)
 - [@fr4via](https://x.com/fr4vian)
 - [@AlQa3Qa3M0x0101](https://x.com/AlQa3Qa3M0x0101)
 - [@happyjester80](https://x.com/happyjester80)
