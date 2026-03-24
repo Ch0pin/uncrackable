@@ -104,6 +104,7 @@ Do you have something to teach to the community ? then just Clone -> PR -> And w
 
 #### Dontreload 
 - [@tomisec](https://x.com/tomisec) - Part A (first blood)
+- [@hulkvision](https://x.com/hulkvision)
 
 #### Insider
 
